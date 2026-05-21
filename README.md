@@ -24,3 +24,8 @@ Jupyter Notebooks (fichiers `.ipynb`) à ouvrir directement sous l'IDE :
 
 - [Python 01 Bases](notebooks/pyt_01_bases.ipynb)
 - [Python 02 Structures conditionnelles](notebooks/pyt_02_conditions.ipynb)
+- et la suite dans le dossier `notebooks/`...
+
+### Techniques défensives
+
+- [Bases de techniques défensives avec Python](md/defense.md)
